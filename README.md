@@ -6,5 +6,6 @@
 | HolyJS | https://holyjs.ru/ | https://www.youtube.com/@HolyJS |
 | Frontend Conf | https://frontendconf.ru/ | https://www.youtube.com/c/FrontendChannel |
 | YaTalks | https://yatalks.yandex.ru/ | https://www.youtube.com/@yandex |
+| CodeFest Russia | https://codefest.ru/ | https://www.youtube.com/@codefestru |
 | MoscowJS | https://moscowjs.org/ | https://www.youtube.com/c/moscowjs |
 | GitHub Universe | https://githubuniverse.com/ | https://www.youtube.com/c/GitHub |
